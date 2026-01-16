@@ -1,0 +1,111 @@
+.login{
+    width: 600px;
+    height: 500px;
+    background-color: aquamarine;
+    border-radius: 23px;
+    box-shadow: 10px 10px 40px black;
+}
+.in{
+    width: 300px;
+    padding: 5px;
+    border-radius: 8px;
+    margin: 20px;
+}
+.log{
+    width: 300px;
+    background-color: blue;
+    color: white;
+}
+.create{
+    background-color: azure;
+    padding-left: 80px;
+    padding-right: 80px;
+    border-radius: 12px;
+    padding: auto;
+    text-decoration: none;
+    
+}
+.create:hover{
+    background-color: blue;
+    color: white;
+}
+.group{
+    background-color: aqua;
+    width: 15rem;
+    height: 150px;
+    padding: 5px;
+    margin: 40px;
+    border-radius: 10px;
+}
+.group:hover{
+    background-color:orange;
+}
+.icon{
+    font-size: 5rem;
+}
+.home{
+    background-image: url(./images\ \(9\).jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.nav{
+    background-color: blue;
+    height: 70px;
+    color: white;
+}
+.nav a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    }
+.nav a:hover{
+    background-color: aquamarine;
+    color: black;
+}
+.mine{
+    background-color: aqua;
+    padding: 10px;
+    margin: 20px;
+
+}
+.mine a{
+    text-decoration: none;
+    color: black;
+}
+.mine:hover{
+    background-color: orange;
+}
+.bar{
+    background-color: aqua;
+}
+.in{
+    width: 300px;
+    
+}
+.put{
+    padding: 3px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 3px;
+}
+.bo h2{
+    padding: 20px;
+}
+.bo h2:hover{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.pho{
+    border: 3px solid black;
+}
+.pho:hover{
+    border: 3px solid orange;
+}
+.backlog{
+    background-image:url(./img1.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top left;
+}
